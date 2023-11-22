@@ -1,0 +1,13 @@
+flashing effect = malwux on discord (i made it do the flashing faster)
+tunnel = i forgot but probably comeonar (i made it do the tunnel faster)
+error icons = pact8 (i converted c++ to python)
+"idk what gdi this is called" = pact8 (i converted c++ to python, made it shorter, edited values)
+darkr = pankoza
+text = comeonar (i made it have random colors)
+bouncingcircle = pankoza (i made it faster)
+ellipse = pankoza (i made it faster)
+wide = pankoza
+
+combined tunnel, flashing, error icons = me
+combined "idk what gdi this is called", darkr = me
+combined vertical wide, horizontal wide = me
