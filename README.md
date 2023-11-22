@@ -1,4 +1,4 @@
-![im233333age0-fotor-bg-remover-20231120223418-fotor-bg-remover-2023112022381](https://github.com/woskethebot/tutorial/assets/121425028/286e7527-9c84-4ccc-ac0a-04ba0c9d677c)
+![im233333age0-fotor-bg-remover-20231120223418-fotor-bg-remover-2023112022381](https://github.com/woskethebot/tutorial/assets/121425028/c09a81cf-c5f7-48a2-abe6-622a162ea496)
 # tutorial
 my first gdi malware! it shows 2 warnings, destroys the mbr, starts some gdi effects, and then bsod, and go all the way back to setup
 # note
